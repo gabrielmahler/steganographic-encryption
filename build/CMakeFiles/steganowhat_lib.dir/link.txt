@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsteganowhat_lib.a  CMakeFiles/steganowhat_lib.dir/src/pkg/client.cxx.o CMakeFiles/steganowhat_lib.dir/src/drivers/cli_driver.cxx.o CMakeFiles/steganowhat_lib.dir/src/drivers/crypto_driver.cxx.o CMakeFiles/steganowhat_lib.dir/src/drivers/network_driver.cxx.o CMakeFiles/steganowhat_lib.dir/src/drivers/stegano_driver.cxx.o
+/usr/bin/ranlib libsteganowhat_lib.a
